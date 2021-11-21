@@ -959,6 +959,12 @@ i.bx.bx-x {
   background: rgba(255, 255, 255, 0.1);
 }
 
+.contact .info-box i.bx:hover{
+  background: #fbbb2e;
+  color: rgba(255, 255, 255, 0.1);
+
+}
+
 .contact .info-box h3 {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
@@ -992,6 +998,7 @@ i.bx.bx-x {
 
 .contact .info-box .social-links a:hover {
   color: #fbbb2e;
+  background-color: #aaaaaa;
 }
 
 .contact .php-email-form {
