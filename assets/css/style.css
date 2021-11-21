@@ -996,10 +996,7 @@ i.bx.bx-x {
   transition: 0.3s;
 }
 
-.contact .info-box .social-links a:hover {
-  color: #fbbb2e;
-  background-color: #aaaaaa;
-}
+
 
 .contact .php-email-form {
   padding: 30px;
